@@ -1,4 +1,5 @@
 # LinkedIn-Jobs-List
+A collaborative project completed within a week by a group of 3 members.
 
 ## Objective
 1. To Scrape the data from LinkedIn using Python libraries called Beautiful Soup and Selenium.
